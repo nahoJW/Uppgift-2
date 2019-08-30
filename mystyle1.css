@@ -1,28 +1,28 @@
 p {
-color : red;
+    color:red;
 }
 body {
-background-color : blue;
+    background-color:blue;
 }
 h1 {
-font-family : arial;
-font-size : 22px;
+    font-family:arial;
+    font-size:22px;
 }
 p.program {
-color : black;
+    color:black;
 }
 p.program {
-background-color : white;
+    background-color:white;
 }
 p.program {
-text-align : center;
+    text-align:center;
 }
 p.kurs {
-text-align : right;
+    text-align:right;
 }
 a {
-text-decoration : none;
+    text-decoration:none;
 }
 p.mig {
-border : solid;
+    border:solid;
 }
